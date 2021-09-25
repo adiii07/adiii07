@@ -5,14 +5,15 @@
 
  🔭 I’m currently working on ...
 - Making projects with React JS
-- 
+
  🌱 I’m currently learning ...
 - React JS
 - Django
 - Arduino
-- 
+
  📫 How to reach me: ...
-- <a href=”https://www.linkedin.com/in/adi7/"><img align=”left” src=”https://raw.githubusercontent.com/adiii07/adiii07/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
+- <a href="https://www.linkedin.com/in/adi7/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2FlinkedIn%2FlinkedIn_PNG39.png&f=1&nofb=1" alt="linkedin logo"></a>
+- <a href="mailto:adityabala2005@gamil.com"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freepnglogos.com%2Fuploads%2Fgmail-email-logo-png-16.png&f=1&nofb=1" alt="gmail logo"></a>
 
 [![Aditys’s github stats](https://github-readme-stats.vercel.app/api?username=adiii07)](https://github.com/adiii07)
 
