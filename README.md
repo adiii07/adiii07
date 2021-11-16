@@ -16,4 +16,3 @@
 
 [![Aditys’s github stats](https://github-readme-stats.vercel.app/api?username=adiii07)](https://github.com/adiii07)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiii07&layout=compact)](https://github.com/adiii07)
