@@ -4,7 +4,8 @@
 
 
  🔭 I’m currently working on ...
-- Making projects with React JS
+- Django
+- MySQL
 
  🌱 I’m currently learning ...
 - React JS
