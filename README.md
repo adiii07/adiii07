@@ -4,12 +4,12 @@
 
 
  🔭 I’m currently working on ...
+- OpenCV
 - Django
-- React.js
 
  🌱 I’m currently learning ...
 - React.js
-- Express.js
+- OpenCV
 
  📫 How to reach me ...  
 
